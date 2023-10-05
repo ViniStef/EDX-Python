@@ -1,0 +1,18 @@
+Requisitos Funcionais:
+ - O jogo deverá permitir ao jogador se movimentar para os dois lados
+ - O jogo deverá permitir ao jogador atirar
+ - Os aliens do jogo irão atirar 
+ - Os aliens devem se movimentar ao mesmo tempo
+
+
+Requisitos não Funcionais:
+ - O jogo deverá rodar em Windows 10.
+ - O jogo será programado em Python.
+ - O tempo de resposta para qualquer ação do usuário não deve ultrapassar 1 segundo.
+
+
+Regras de Negócio:
+ - O jogador terá 3 vidas.
+ - Aliens terão 1 vida.
+ - Cada tiro efetuado pelo jogador ou alien irá causar 1 de dano.
+ - Os aliens se movem apenas para baixo, uma vez a cada segundo.
